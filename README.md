@@ -23,16 +23,9 @@
 
 ---
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaveenn&show_icons=true&theme=tokyonight" />
-  <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaveenn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaveenn&theme=onedark&no-bg=true" />
-</p>
