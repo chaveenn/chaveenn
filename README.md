@@ -21,11 +21,8 @@
   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,java,python,git,figma,docker,vercel" />
 </p>
 
----
-
-<p align="center">
-  
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaveenn&layout=compact&theme=tokyonight" />
 </p>
 
----
+
